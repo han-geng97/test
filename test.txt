@@ -1,3 +1,0 @@
-<<<<<<< HEAD
-This is created online and offline.
->>>>>>> fcfc5e964f24b9b4d6c123c17bd7805fab67ba38
